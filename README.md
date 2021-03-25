@@ -1,7 +1,7 @@
 
 
 I'm currently focusing on schoolwork as a CS student in the University of Wisconsin-Madison.
-Also working on my own photography website...
+Also developing some side projects...
 Stay tune!
 <!--
 **Slijeff/Slijeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

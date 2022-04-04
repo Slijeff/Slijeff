@@ -7,11 +7,14 @@ Stay tune!
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 March 2022 - To: 03 April 2022
+From: 05 March 2022 - To: 04 April 2022
 
-Total Time: 18 mins
+Total Time: 50 mins
 
-Python   18 mins         █████████████████████████   100.00 %
+C          26 mins         █████████████░░░░░░░░░░░░   52.54 %
+Python     18 mins         █████████▒░░░░░░░░░░░░░░░   37.41 %
+Makefile   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->

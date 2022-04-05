@@ -21,4 +21,6 @@ jobs:
           SHOW_LINES_OF_CODE: true
           SHOW_LANGUAGE: true
           SHOW_TIMEZONE: true
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LOC_CHART: false
           

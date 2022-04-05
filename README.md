@@ -5,9 +5,9 @@ Also developing some side projects...
 Stay tune!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -17,7 +17,7 @@ Stay tune!
  > 
 > 📦 59.7 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
@@ -87,5 +87,5 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Slijeff/Slijeff/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/04/2022 14:09:46 UTC
+ Last Updated on 05/04/2022 00:55:04 UTC
 <!--END_SECTION:waka-->

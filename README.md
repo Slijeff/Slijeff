@@ -4,6 +4,7 @@ I'm currently focusing on schoolwork as a CS student in the University of Wiscon
 Also developing some side projects...
 Stay tune!
 
+[![wakatime](https://wakatime.com/badge/user/99a12255-d5fa-4530-a56f-b1f6efe8669d.svg?style=for-the-badge)](https://wakatime.com/@99a12255-d5fa-4530-a56f-b1f6efe8669d)
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-154-blue)
 

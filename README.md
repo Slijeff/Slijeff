@@ -15,12 +15,10 @@ Stay tune!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-78-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 118 Contributions in the Year 2022
- > 
 > 📦 59.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -81,5 +79,5 @@ Windows                  2 hrs 31 mins       ██████░░░░░�
 ```
 
 
- Last Updated on 24/04/2022 22:09:09 UTC
+ Last Updated on 25/04/2022 03:09:58 UTC
 <!--END_SECTION:waka-->

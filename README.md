@@ -19,6 +19,8 @@ Stay tune!
 
 **🐱 My GitHub Data** 
 
+> 🏆 118 Contributions in the Year 2022
+ > 
 > 📦 59.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -79,5 +81,5 @@ Windows                  2 hrs 31 mins       ██████░░░░░�
 ```
 
 
- Last Updated on 25/04/2022 03:09:58 UTC
+ Last Updated on 25/04/2022 04:15:42 UTC
 <!--END_SECTION:waka-->

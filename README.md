@@ -13,7 +13,7 @@ Stay tune!
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slijeff&count_private=true&langs_count=8&hide=javascript&custom_title=Repo+Languages)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -81,5 +81,5 @@ Linux                    1 hr 7 mins         ████░░░░░░░�
 ```
 
 
- Last Updated on 09/05/2022 06:12:38 UTC
+ Last Updated on 09/05/2022 08:17:08 UTC
 <!--END_SECTION:waka-->

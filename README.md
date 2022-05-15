@@ -13,7 +13,7 @@ Stay tune!
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slijeff&count_private=true&langs_count=8&hide=javascript&custom_title=Repo+Languages)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -58,24 +58,19 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-JavaScript               2 hrs 45 mins       ████████████████████████░   98.17% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 48 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CODE                     2 hrs 45 mins       ████████████████████████░   98.32% 
-todo-app                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 15/05/2022 06:12:01 UTC
+ Last Updated on 15/05/2022 08:11:37 UTC
 <!--END_SECTION:waka-->

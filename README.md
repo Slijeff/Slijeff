@@ -13,14 +13,12 @@ Stay tune!
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slijeff&count_private=true&langs_count=8&hide=javascript&custom_title=Repo+Languages)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 136 Contributions in the Year 2022
- > 
 > 📦 60.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -58,19 +56,19 @@ Sunday       9 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Python                   8 mins              █████████████████████████   100.0%
+Python                   30 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+VS Code                  30 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-CODE                     8 mins              █████████████████████████   100.0%
+CODE                     30 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.0%
+Windows                  30 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/05/2022 06:13:11 UTC
+ Last Updated on 23/05/2022 08:12:56 UTC
 <!--END_SECTION:waka-->

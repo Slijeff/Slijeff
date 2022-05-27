@@ -13,12 +13,14 @@ Stay tune!
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slijeff&count_private=true&langs_count=8&hide=javascript&custom_title=Repo+Languages)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
+> 🏆 142 Contributions in the Year 2022
+ > 
 > 📦 60.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -77,5 +79,5 @@ Windows                  6 hrs 35 mins       ███████████�
 ```
 
 
- Last Updated on 27/05/2022 04:24:13 UTC
+ Last Updated on 27/05/2022 06:12:59 UTC
 <!--END_SECTION:waka-->

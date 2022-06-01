@@ -13,7 +13,7 @@ Stay tune!
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slijeff&count_private=true&langs_count=8&hide=javascript&custom_title=Repo+Languages)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -81,5 +81,5 @@ Windows                  9 hrs 14 mins       ███████████�
 ```
 
 
- Last Updated on 01/06/2022 03:58:23 UTC
+ Last Updated on 01/06/2022 05:08:32 UTC
 <!--END_SECTION:waka-->

@@ -76,6 +76,6 @@ Stay tune!
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 

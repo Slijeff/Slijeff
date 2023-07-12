@@ -1,8 +1,6 @@
 
 ## Hi there 👋!
-I'm currently focusing on schoolwork as a CS student at the University of Wisconsin-Madison.
-Also developing some side projects...
-Stay tune!
+I'm actively looking for intern opportunities. Also developing some side projects...Stay tune and happy hacking!
 
 ### Stats | Coding Time
 

@@ -2,7 +2,9 @@
 ## Hi there 👋!
 I'm actively looking for intern opportunities. Also developing some side projects...Stay tune and happy hacking!
 
-![Metrics](https://metrics.lecoq.io/Slijeff?template=classic&isocalendar=1&languages=1&stars=1&people=1&code=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=5&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&leetcode=false&leetcode.user=.user.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FShanghai)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ### Stats | Coding Time
 

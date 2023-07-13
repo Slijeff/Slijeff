@@ -2,9 +2,7 @@
 ## Hi there 👋!
 I'm actively looking for intern opportunities. Also developing some side projects...Stay tune and happy hacking!
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+![Metrics](/github-metrics.svg)
 
 ### Stats | Coding Time
 

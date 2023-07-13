@@ -29,7 +29,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
-          config_display: large
+          config_display: columns
           config_padding: 0, 8 + 5%
           config_timezone: Asia/Shanghai
 #           plugin_achievements: yes
@@ -75,3 +75,5 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_topics: yes
+          plugin_topics_mode: icons

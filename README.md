@@ -5,6 +5,7 @@ I'm actively looking for intern opportunities. Also developing some side project
 ### Stats | Coding Time
 
 [![wakatime](https://wakatime.com/badge/user/99a12255-d5fa-4530-a56f-b1f6efe8669d.svg?style=for-the-badge)](https://wakatime.com/@99a12255-d5fa-4530-a56f-b1f6efe8669d)
+![views_tracker](https://komarev.com/ghpvc/?username=slijeff&style=for-the-badge)
 
 [![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=slijeff&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

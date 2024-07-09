@@ -1,6 +1,6 @@
 
 ## Hi there 👋!
-I'm actively looking for intern opportunities. Also developing some side projects... Stay tune and happy hacking!
+I'm actively looking for job. Also developing some side projects... Stay tune and happy hacking!
 
 
 ### Stats | Coding Time

@@ -1,7 +1,5 @@
 
 ## Hi there 👋!
-I'm actively looking for job. Also developing some side projects... Stay tune and happy hacking!
-
 
 ### Stats | Coding Time
 
